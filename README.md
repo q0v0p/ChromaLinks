@@ -7,5 +7,4 @@ This app works in the task tray.
 3. Enjoy LED light synchronization.
 
 # Demo Video
-
-[!['ChromaLinks Demo']('http://img.youtube.com/vi/QBApBbkQu3M/default.jpg')]('https://www.youtube.com/watch?v=QBApBbkQu3M')
+[![ChromaLinks Demo Video](http://img.youtube.com/vi/QBApBbkQu3M/0.jpg)](https://www.youtube.com/watch?v=QBApBbkQu3M)
